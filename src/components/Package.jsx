@@ -1,7 +1,7 @@
 import React from 'react'
 import Card from './Card'
-import Card2 from './card2'
-import Card3 from '../components/Card3'
+import Card2 from './TemplateCard1'
+import Card3 from './TemplateCard2'
 
 function Package() {
   const packageContainerStyle = {
